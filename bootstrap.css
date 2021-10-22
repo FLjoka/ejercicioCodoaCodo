@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(247, 243, 250);
+}
+.img{
+    width: 366px;
+    height: 200px;
+}
+.text-peq{
+    font-size: 0.75rem;
+}
+.title{
+    font-size: 1.5em;
+}
+.card-title{
+    font-size: 1.3rem;
+}
+.env{
+    margin-bottom: 1.5rem;
+}
